@@ -1,0 +1,1 @@
+1. This has happened before where someone is setting up a PC upstairs, causing temporary voltage disrupttion to the main PC room and cause the HDMI devices lost connection briefly, and cause the church hall monitor to black screen briefly.
